@@ -6,8 +6,8 @@ __pycache__/
 # Datasets (too large for git)
 data/
 
-# Generated Figures (can be regenerated)
-reports/figures/*.png
+# Generated Figures (User requested to commit them)
+# reports/figures/*.png
 
 # User requested explicitly to exclude md files
 *.md
