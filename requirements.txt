@@ -1,0 +1,17 @@
+# Data Manipulation & EDA
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+optuna
+
+# Deep Learning
+torch
+
+# Notebooks & Tooling
+jupyter
+ipykernel

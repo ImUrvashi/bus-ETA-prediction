@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+
+# Datasets (too large for git)
+data/
+
+# Generated Figures (can be regenerated)
+reports/figures/*.png
+
+# User requested explicitly to exclude md files
+*.md
