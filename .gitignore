@@ -9,5 +9,10 @@ data/
 # Generated Figures (User requested to commit them)
 # reports/figures/*.png
 
-# User requested explicitly to exclude md files
+# Keep only the project README tracked; ignore all other Markdown files.
 *.md
+!README.md
+
+# Ignore architecture and project notes docs
+# (These are intentionally kept local and not pushed to git.)
+doc/*.md
